@@ -1,0 +1,6 @@
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\cryption.pdb
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\wardd\source\repos\cryption\cryption\bin\Release\net5.0\publish\cryption.exe
